@@ -1,0 +1,7 @@
+github:
+  client:
+    id: Ov23liLIl84lbSyZDBgh
+    secret: d109723eb22b05bb5be653209bba17b937564ec8
+  redirect:
+    uri: http://localhost:5173/github/callback
+  scope: user:follow
